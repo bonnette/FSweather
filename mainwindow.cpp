@@ -16,7 +16,7 @@ MainWindow::MainWindow(QWidget *parent) :
     timer = new QTimer(this); // set up timer
     connect(timer,SIGNAL(timeout()),this,SLOT(getWeather()));
     timer->start(30000); //30 second timer
-    getWeather(); // Get weather from weather station for the first time.
+    getWeather(); // Get weather from weather station for the first time
 }
 
 
