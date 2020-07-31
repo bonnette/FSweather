@@ -114,6 +114,8 @@
          <property name="font">
           <font>
            <pointsize>42</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
           </font>
          </property>
          <property name="styleSheet">
@@ -140,6 +142,9 @@
          <property name="text">
           <string>-</string>
          </property>
+         <property name="textFormat">
+          <enum>Qt::AutoText</enum>
+         </property>
          <property name="alignment">
           <set>Qt::AlignCenter</set>
          </property>
@@ -150,6 +155,8 @@
          <property name="font">
           <font>
            <pointsize>42</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
           </font>
          </property>
          <property name="styleSheet">
@@ -175,6 +182,8 @@
          <property name="font">
           <font>
            <pointsize>42</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
           </font>
          </property>
          <property name="styleSheet">
@@ -211,6 +220,8 @@
          <property name="font">
           <font>
            <pointsize>42</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
           </font>
          </property>
          <property name="styleSheet">
@@ -236,6 +247,8 @@
          <property name="font">
           <font>
            <pointsize>42</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
           </font>
          </property>
          <property name="styleSheet">
@@ -272,6 +285,8 @@
          <property name="font">
           <font>
            <pointsize>42</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
           </font>
          </property>
          <property name="styleSheet">
