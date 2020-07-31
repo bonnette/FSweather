@@ -38,7 +38,7 @@
       <x>8</x>
       <y>0</y>
       <width>461</width>
-      <height>316</height>
+      <height>320</height>
      </rect>
     </property>
     <layout class="QVBoxLayout" name="verticalLayout">
@@ -55,7 +55,9 @@
        </property>
        <property name="font">
         <font>
-         <pointsize>10</pointsize>
+         <pointsize>12</pointsize>
+         <weight>75</weight>
+         <bold>true</bold>
         </font>
        </property>
        <property name="cursor">
@@ -92,7 +94,7 @@
         </font>
        </property>
        <property name="styleSheet">
-        <string notr="true">background:black; color:lightblue</string>
+        <string notr="true">background:black; color:rgb(85, 170, 255)</string>
        </property>
        <property name="text">
         <string>Time</string>
